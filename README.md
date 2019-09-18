@@ -200,3 +200,4 @@
 | Михаил Смаль                       | Lead developer                          |
 | Михаил Самин                       | CEO, AudD, Москва                       |
 | Соломатин Роман                    | Программист, Пермь                      |
+| Цибин Андрей                       | Software Engineer, EPAM Systems         |
